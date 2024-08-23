@@ -1,6 +1,4 @@
-Here's a `README.md` file for the **Inverted Live Camera Feed** script, with detailed sections and properly formatted code blocks.
 
-```markdown
 # Inverted Live Camera Feed with OpenCV
 
 This repository contains a Python script that demonstrates how to invert the colors of a live camera feed using OpenCV.
